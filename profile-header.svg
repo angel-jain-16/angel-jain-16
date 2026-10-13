@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="150" viewBox="0 0 1000 150">
+  <rect width="1000" height="150" rx="16" fill="#15151f"/>
+  <text
+    x="500" y="82"
+    text-anchor="middle"
+    font-family="monospace"
+    font-size="36"
+    font-weight="bold">
+    <tspan fill="#FF5555">while</tspan>
+    <tspan fill="#F1FA8C"> (</tspan>
+    <tspan fill="#50FA7B">AngelJain</tspan><tspan fill="#8BE9FD">.</tspan><tspan fill="#BD93F9">isEvolving</tspan><tspan fill="#F1FA8C">()</tspan><tspan fill="#F1FA8C">)</tspan>
+    <tspan fill="#FF5555"> continue</tspan><tspan fill="#FF79C6">;</tspan>
+  </text>
+</svg>
