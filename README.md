@@ -1,16 +1,41 @@
-## Hi there 👋
+ <p align="center">
+  <img src="./profile-header.svg" width="100%" alt="while (AngelJain.isEvolving()) continue;" />
+</p>
 
-<!--
-**angel-jain-16/angel-jain-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>First-year Student · Full-Stack Developer · Lifelong Learner</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 About Me
+
+- 🌱 Currently learning, building, breaking things, and figuring out how they work.
+- 🛠️ Working with the **SERN stack** and **Python**.
+- 🧠 Improving my problem-solving skills, one challenge at a time.
+- 🤝 Love connecting with people, sharing ideas, and expanding my network.
+- 🚀 Always curious about new technologies and the things I can build with them.
+
+### 🧰 Tech Stack
+
+**Languages:** `JavaScript` · `Python` · `HTML` · `CSS`
+
+**Frontend:** `React` · `Vite`
+
+**Backend & Databases:** `Node.js` · `Express.js` · `PostgreSQL` 
+
+**Tools:** `Git` · `GitHub` · `VS Code`
+
+### 🚀 What I'm Up To
+
+- Building projects that turn what I learn into something real.
+- Exploring full-stack development and strengthening my fundamentals.
+- Learning to write better code and think through problems more effectively.
+
+### 🤝 Let's Connect
+
+I'm always happy to connect with fellow developers, exchange ideas, and learn something new.
+
+<p align="center">
+  <i>Still a work in progress — just like the code I write.</i> ✨
+</p>
