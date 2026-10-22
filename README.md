@@ -20,11 +20,11 @@
 
 **Languages:** `JavaScript` · `Python` · `HTML` · `CSS`
 
-**Frontend:** `React` · `Vite`
+**Frontend:** `React` · `Vite` · `Tailwind CSS`
 
-**Backend & Databases:** `Node.js` · `Express.js` · `PostgreSQL` 
+**Backend & Databases:** `Node.js` · `Express.js` · `Flask` · `PostgreSQL`
 
-**Tools:** `Git` · `GitHub` · `VS Code`
+**Tools:** `Git` · `GitHub` · `VS Code` · `Postman`
 
 ### 🚀 What I'm Up To
 
